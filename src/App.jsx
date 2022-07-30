@@ -201,20 +201,6 @@ const signIn =(event)=>{
         </div>
       
       <div className="app_postright">
-        <h3>shubham</h3>
-      <InstagramEmbed
-  url='https://www.instagram.com/techphobia_/?hl=en'
-  clientAccessToken=''
-  maxWidth={320}
-  hideCaption={false}
-  containerTagName='div'
-  protocol=''
-  injectScript
-  onLoading={() => {}}
-  onSuccess={() => {}}
-  onAfterRender={() => {}}
-  onFailure={() => {}}
-/>
       </div>
       </div>
 
